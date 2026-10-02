@@ -6,6 +6,7 @@ Full-stack developer building web apps and the CRM integrations behind them. Mos
 - **Web apps:** React + Vite frontends, Node.js + Express APIs
 - **Cloud:** Azure hosting and deployment
 - **CRM & automation:** Microsoft Dynamics 365, Dataverse, Power Automate
+- **Security:** securing website-to-CRM APIs with Microsoft Entra ID (OAuth 2.0) and Azure Key Vault for secrets
 - **On the side:** building my own trading tools
 
 ### 🛠️ Tech stack
@@ -27,6 +28,14 @@ Full-stack developer building web apps and the CRM integrations behind them. Mos
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-000000?style=flat&logo=express&logoColor=white)
 ![REST APIs](https://img.shields.io/badge/REST_APIs-FF6C37?style=flat&logo=postman&logoColor=white)
+
+**Data**<br>
+![Azure SQL Database](https://img.shields.io/badge/Azure_SQL_Database-0078D4?style=flat&logo=microsoftsqlserver&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
+
+**Security**<br>
+![Microsoft Entra ID](https://img.shields.io/badge/Entra_ID_(OAuth_2.0)-0078D4?style=flat&logo=microsoft&logoColor=white)
+![Azure Key Vault](https://img.shields.io/badge/Azure_Key_Vault-0078D4?style=flat&logo=microsoftazure&logoColor=white)
 
 **Cloud & DevOps**<br>
 ![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat&logo=microsoftazure&logoColor=white)
