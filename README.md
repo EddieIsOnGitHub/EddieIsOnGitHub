@@ -9,6 +9,11 @@ Full-stack developer building web apps and the CRM integrations behind them. Mos
 - **Security:** securing website-to-CRM APIs with Microsoft Entra ID (OAuth 2.0) and Azure Key Vault for secrets
 - **On the side:** building my own trading tools
 
+### 🚀 What I've built
+- **Custom CRM (in progress):** my own client-management-focused CRM, built from scratch over 120+ hours and already managing 1,300+ contacts across 700+ accounts
+- **Website-to-CRM pipeline:** a React + Express system on Azure that sends website form submissions straight into Dynamics 365 as leads and accounts, so nobody re-enters them by hand
+- **CRM workflow automation:** Power Automate flows on Dataverse that handle routing, notifications and record updates automatically
+
 ### 🛠️ Tech stack
 
 **Languages**<br>
@@ -59,9 +64,3 @@ Full-stack developer building web apps and the CRM integrations behind them. Mos
 
 ### 📫 Get in touch
 - LinkedIn: [Eduan van Waveren](https://www.linkedin.com/in/eduan-van-waveren-49b35a262/)
-
----
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=EddieIsOnGitHub&theme=github-dark-blue&hide_border=true" alt="GitHub contribution streak" />
-</p>
