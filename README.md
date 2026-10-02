@@ -63,6 +63,5 @@ Full-stack developer building web apps and the CRM integrations behind them. Mos
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=EddieIsOnGitHub&show_icons=true&count_private=true&hide_border=true&theme=github_dark" height="160" alt="GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EddieIsOnGitHub&layout=compact&hide_border=true&theme=github_dark" height="160" alt="Top languages" />
+  <img src="https://streak-stats.demolab.com/?user=EddieIsOnGitHub&theme=github-dark-blue&hide_border=true" alt="GitHub contribution streak" />
 </p>
